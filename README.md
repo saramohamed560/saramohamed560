@@ -20,18 +20,19 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/sara-mohamed37/" target="_blank"><img src="https://img.shields.io/badge/-sara mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<div>Or With Gmail :saramohamed3738@gmail.com</div>
+<br>
+Or With Gmail :saramohamed3738@gmail.com
 
 
 
 ### 🛠 &nbsp;Tech Stack
-![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)&nbsp;
+![MS Sql Server](https://img.shields.io/badge/-MS Sql Server-05122A?style=flat&logo=sql)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![OOP](https://img.shields.io/badge/-oop-05122A?style=flat&logo=oop)&nbsp;
-![ASP.Net Core Api](https://img.shields.io/badge/-api-05122A?style=flat&logo=api)&nbsp;
+![Api](https://img.shields.io/badge/-api-05122A?style=flat&logo=api)&nbsp;
 ![ASP.Net Core MVC](https://img.shields.io/badge/-mvc-05122A?style=flat&logo=mvc)&nbsp;
 ![Design PatternsC](https://img.shields.io/badge/-design-05122A?style=flat&logo=design)&nbsp;
-![Solid Principles](https://img.shields.io/badge/-solid-05122A?style=flat&logo=solid)&nbsp;
+![Solid Principles](https://img.shields.io/badge/-solLLid-05122A?style=flat&logo=solid)&nbsp;
 ![Agile](https://img.shields.io/badge/-agile-05122A?style=flat&logo=agile)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
